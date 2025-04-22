@@ -5,10 +5,10 @@ Learning just got smarter. Instantly turn any block of text into a custom multip
 
 Whether you're a student, teacher, or just a knowledge junkie, this app helps reinforce understanding by auto-generating quizzes based on pasted content. Powered by **Groq** and **Meta’s LLaMA**, it makes learning interactive, personalized, and fun.
 
-![Image](https://github.com/user-attachments/assets/077cddde-b0da-4e02-b5a3-27ec31a9826d)
-
 ## 🎥 Watch the Demo
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/Zenvo0z6p4w)
+
+![Image](https://github.com/user-attachments/assets/077cddde-b0da-4e02-b5a3-27ec31a9826d)
 
 ---
 
